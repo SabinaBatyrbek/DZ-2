@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace app1
+namespace dz2
 {
     class Program
     {
         static void Main(string[] args)
         {
             int[] num = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            int sum=0;
+            int sum = 0;
             foreach (int i in num)
             {
                 int j;
@@ -32,8 +32,9 @@ namespace app1
                     Console.WriteLine(i + "  четное число");
                 }
                 sum = i + sum;
-
             }
             Console.WriteLine("Сумма всех чисел    " + sum);
+        }
+
     }
 }

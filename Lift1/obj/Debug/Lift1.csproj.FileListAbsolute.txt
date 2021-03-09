@@ -1,0 +1,7 @@
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\bin\Debug\Lift1.exe.config
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\bin\Debug\Lift1.exe
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\bin\Debug\Lift1.pdb
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\obj\Debug\Lift1.csproj.CoreCompileInputs.cache
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\obj\Debug\Lift1.exe
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\obj\Debug\Lift1.pdb
+C:\Users\Сабина\Source\Repos\DZ-2\Lift1\obj\Debug\Lift1.csprojAssemblyReference.cache

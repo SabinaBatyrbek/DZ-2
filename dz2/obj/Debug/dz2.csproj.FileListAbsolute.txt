@@ -1,0 +1,7 @@
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\bin\Debug\dz2.exe.config
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\bin\Debug\dz2.exe
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\bin\Debug\dz2.pdb
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\obj\Debug\dz2.csprojAssemblyReference.cache
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\obj\Debug\dz2.exe
+C:\Users\Сабина\Source\Repos\DZ-2\dz2\obj\Debug\dz2.pdb
